@@ -1,6 +1,9 @@
 /* ------------------ */
 /* base */
 /* ------------------ */
+h1{
+  margin-block-start: 0;
+}
 ul {
   list-style: none;
 }
@@ -326,5 +329,8 @@ textarea{
     }
     .checkbox-item{
         margin-right: 0;
+    }
+    h1{
+    margin-block-start: 0;
     }
 }
